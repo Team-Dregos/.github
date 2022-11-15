@@ -1,3 +1,3 @@
 # Team Dregos
-<img src="https://github.com/Team-Dregos/Super-Powered/blob/a3877914179fc322a9d30254b33479c6f2a2d47b/Media/Dregos_Logo.png" width="20%">
+<img src="https://github.com/Team-Dregos/Super-Powered/blob/191add16cbf04b57ae0fde5c63e1693329202294/Media/Dregos%20Logo%20V2.png" width="20%">
 Dragons + LEGO(r) = Dregos
